@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RemonPaintBrush</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pen_color">Pen Color</string>
+    <string name="type">Type</string>
+    <string name="background_color">Background</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="free">Free Drawing</string>
+    <string name="line">Line</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="square">Square</string>
+    <string name="ellipse">Ellipse</string>
+    <string name="circle">Circle</string>
+    <string name="pen_width">Pen Width</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save Image</string>
+    <string name="load">Load Image</string>
+    <string name="triangle">Triangle</string>
+    <string name="filled">Filled</string>
+    <string name="not_filled">Not filled</string>
+</resources>

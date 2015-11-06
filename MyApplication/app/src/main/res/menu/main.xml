@@ -1,0 +1,93 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.remonpaintass2.MainActivity" >
+
+   <item
+        android:id="@+id/free"
+        android:orderInCategory="100"
+        android:title="@string/free"
+        app:showAsAction="never"/>
+   
+    <item
+        android:id="@+id/line"
+        android:orderInCategory="100"
+        android:title="@string/line"
+        app:showAsAction="never"/>
+    
+    
+     <item
+        android:id="@+id/triangle"
+        android:orderInCategory="100"
+        android:title="@string/triangle"
+        app:showAsAction="never"/>
+    
+    
+    <item
+        android:id="@+id/rectangle"
+        android:orderInCategory="100"
+        android:title="@string/rectangle"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/square"
+        android:orderInCategory="100"
+        android:title="@string/square"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/ellipse"
+        android:orderInCategory="100"
+        android:title="@string/ellipse"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/circle"
+        android:orderInCategory="100"
+        android:title="@string/circle"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/background_color"
+        android:orderInCategory="100"
+        android:title="@string/background_color"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/pen_color"
+        android:orderInCategory="100"
+        android:title="@string/pen_color"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/pen_width"
+        android:orderInCategory="100"
+        android:title="@string/pen_width"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/clear"
+        android:orderInCategory="100"
+        android:title="@string/clear"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/save"
+        android:orderInCategory="100"
+        android:title="@string/save"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/load"
+        android:orderInCategory="100"
+        android:title="@string/load"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/filled"
+        android:orderInCategory="100"
+        android:title="@string/filled"
+        app:showAsAction="never"/>
+    
+    <item
+        android:id="@+id/not_filled"
+        android:orderInCategory="100"
+        android:title="@string/not_filled"
+        app:showAsAction="never"/>
+
+</menu>
